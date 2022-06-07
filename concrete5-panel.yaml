@@ -4,8 +4,6 @@ info:
   name: Concrete5 Panel
   author: dhiyaneshDk
   severity: info
-  metadata:
-    shodan-query: http.title:"concrete5"
   tags: panel,concrete5,cms
 
 requests:
